@@ -1,5 +1,5 @@
 # classifica-sistema-linear
-> Atividade da diciplina método numéricos computaciona
+> Atividade da disciplina método numéricos computaciona
 
 Para a resolução dessa atividade criei uma função para a classificação de sistemas lineares, sendo ela chamada de `LinearSystemClassify`:
 
