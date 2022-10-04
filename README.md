@@ -15,7 +15,7 @@ E recebe como parametro um array, contendo os valores dos coeficientes e dos ter
 ![Demonstration](./ReadmeAssets/Quest%C3%A3o%209.png)
 
 
-[Ver Notbook](./Notebooks/Atividade%20resolvida.ipynb)
+[Ver Notbook](./Notebooks/Atividade_resolvida.ipynb)
 
 ## Autor
 Vinicius Zapalá dos Santos
