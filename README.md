@@ -11,7 +11,7 @@ E recebe como parametro um array, contendo os valores dos coeficientes e dos ter
 
 ## exercicios resolvidos
 - [Ver Notbook da Atividade 1](./Notebooks/Atv1/Atividade_resolvida.ipynb)
-- [Ver Notbook da Atividade 2](./Notebooks/Atv2/sistema_linear_Atividade_2.ipynb)
+- [Ver Notbook da Atividade 2](./Notebooks/Atv2/sistema_linear_Atividade_2_resolvido.ipynb)
 
 ![Demonstration](./ReadmeAssets/Quest%C3%A3o%203.png)
 ![Demonstration](./ReadmeAssets/Quest%C3%A3o%206.png)
