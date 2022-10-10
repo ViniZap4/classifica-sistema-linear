@@ -10,8 +10,8 @@ Para a resolução dessa atividade criei uma função para a classificação de 
 E recebe como parametro um array, contendo os valores dos coeficientes e dos termos indenpedentes e a própria função separa os termos e gera as matrizes respectivas para a classificação. caso o sistema linear for **SPD**, ele irá mostrar a solução do mesmo.
 
 ## exercicios resolvidos
-- [Ver Notbook da Atividade 1](./Notebooks/Atividade_resolvida.ipynb)
-- [Ver Notbook da Atividade 2](./Notebooks/Atividade_resolvida.ipynb)
+- [Ver Notbook da Atividade 1](./Notebooks/Atv1/Atividade_resolvida.ipynb)
+- [Ver Notbook da Atividade 2](./Notebooks/Atv2/sistema_linear_Atividade_2.ipynb)
 
 ![Demonstration](./ReadmeAssets/Quest%C3%A3o%203.png)
 ![Demonstration](./ReadmeAssets/Quest%C3%A3o%206.png)
